@@ -1,0 +1,23 @@
+        h1 {
+            background-color: black;
+            color: white;
+        }
+        
+        body {
+            background-image: url(../images/479583.jpg);
+            background-repeat: round;
+            max-height: 100%;
+        }
+        
+        .searchBar {
+            background-color: darkgrey;
+            color: white;
+            height: 100vh;
+            width: 35%;
+            opacity: 0.8;
+        }
+        
+        .container {
+            padding: 0px;
+            margin: 0px;
+        }

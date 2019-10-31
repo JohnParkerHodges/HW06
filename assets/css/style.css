@@ -1,6 +1,7 @@
         h1 {
             background-color: black;
             color: white;
+            opacity: 1.0;
         }
         
         body {
@@ -9,11 +10,14 @@
             max-height: 100%;
         }
         
+        p {
+            color: white;
+        }
+        
         .searchBar {
             background-color: darkgrey;
             color: white;
             height: 100vh;
-            width: 35%;
             opacity: 0.8;
         }
         
